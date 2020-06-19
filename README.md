@@ -43,6 +43,7 @@ Example scripts and figures are given in [examples](./examples/).
 * Specify font sizes for Nature
 * Allow indices to go beyond 26 for [add_numbering()](./nice_figures/add_numbering.py)
 * Submit to PyPI
+* Add installation instructions to README
 
 ## Useful resources
 

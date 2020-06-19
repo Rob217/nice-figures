@@ -4,7 +4,7 @@ A collection of scripts, modules, and style files for making publication quality
 
 Styles are in accordance with American Physical Society (APS) and Nature publications. 
 
-![alt text](https://github.com/Rob217/nice-figures/blob/master/tests/figs/simple_fig.pdf "Example figure")
+![alt text](https://github.com/Rob217/nice-figures/blob/master/examples/figs/simple_fig.png "Example figure")
 
 To load module:
 ```python

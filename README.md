@@ -34,7 +34,7 @@ For more details about each function, please see the function docstrings.
 
 ## Examples
 
-Example scripts and tests are given in [tests](./tests/).
+Example scripts and figures are given in [examples](./examples/).
 
 ## Still to do:
 

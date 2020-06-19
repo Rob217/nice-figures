@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+tmp/
+eggs/
+develop-eggs/
+
+TODO.txt

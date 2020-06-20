@@ -45,5 +45,6 @@ for i in range(3):
   axs[3, 1].set_title('ROMAN')
   add_numbering(axs[3, 1], i, loc=locs[i], numbering='ROMAN')
 
+# plt.savefig(os.path.join('figs', 'add_numbering_fig.pdf'))
 plt.savefig(os.path.join('figs', 'add_numbering_fig.png'))
 plt.show()

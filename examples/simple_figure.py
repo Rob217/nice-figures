@@ -19,5 +19,6 @@ axs.set_xlabel(r'$x$')
 axs.set_ylabel(r'$f(x)$')
 axs.legend(loc=3)
 
+# plt.savefig(os.path.join('figs', 'simple_fig.pdf'))
 plt.savefig(os.path.join('figs', 'simple_fig.png'))
 plt.show()

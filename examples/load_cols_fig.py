@@ -18,5 +18,6 @@ for i_col, col in enumerate(cols):
 ax.set_ylim([0, len(cols)+1])
 ax.legend()
 
+# plt.savefig(os.path.join('figs', 'load_cols_fig.pdf'))
 plt.savefig(os.path.join('figs', 'load_cols_fig.png'))
 plt.show()

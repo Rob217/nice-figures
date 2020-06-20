@@ -24,7 +24,7 @@ for style in styles:
     ax.set_xlabel(r'$x$')
     ax.set_title(style + ', ' + width)
     plt.savefig(os.path.join('figs', \
-                'load_style_' + style + '_' + width + '.pdf'))
+                'load_style_' + style + '_' + width + '.png'))
 
 # custom height
 figsize = load_style()
@@ -35,7 +35,7 @@ ax.set_ylabel(r'$y$')
 ax.set_xlabel(r'$x$')
 ax.set_title('Width = APS, 1-column; Height = 6in')
 plt.savefig(os.path.join('figs', \
-            'load_style_APS_1-column_h=6in.pdf'))
+            'load_style_APS_1-column_h=6in.png'))
 
 # custom width + height
 figsize = load_style()
@@ -45,5 +45,5 @@ ax.set_ylabel(r'$y$')
 ax.set_xlabel(r'$x$')
 ax.set_title('Width = 2in; Height = 5in')
 plt.savefig(os.path.join('figs', \
-            'load_style_w=2in_h=5in.pdf'))
+            'load_style_w=2in_h=5in.png'))
 plt.show()

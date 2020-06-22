@@ -64,6 +64,6 @@ add_numbering(axs['right'], i=1, loc=(0.7, 0.9))
 add_numbering(axs['bottom'], i=2, loc=(0.9, 0.8))
 
 # save
-plt.savefig(os.path.join('figs', 'advanced_figure.png'))
+plt.savefig(os.path.join('figs', 'advanced_fig.png'))
 
 plt.show()

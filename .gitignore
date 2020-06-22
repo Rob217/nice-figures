@@ -1,10 +1,12 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-
 nice_figures_env/
 tmp/
 eggs/
 develop-eggs/
+*.egg-info/
+build/
+dist/
 
 TODO.txt

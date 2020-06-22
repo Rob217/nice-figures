@@ -59,7 +59,7 @@ def load_style(style='APS', width='1-column'):
     'text.usetex' : True, # use latex text
     'text.latex.preamble' : r'\usepackage{braket}\usepackage{amssymb}\usepackage{txfonts}', # latex packages
     'font.family' : r'Times New Roman',
-    'figure.dpi' : 200,
+    'figure.dpi' : 300,
     'figure.figsize' : figsize[(style, width)],
     'figure.autolayout' : True, # tight layout (True) or not (False)
     'axes.labelpad' : 1,

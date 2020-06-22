@@ -1,6 +1,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
+
+nice_figures_env/
 tmp/
 eggs/
 develop-eggs/

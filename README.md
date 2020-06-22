@@ -4,7 +4,7 @@ A collection of scripts, modules, and style files for making publication quality
 
 Styles are in accordance with American Physical Society (APS) and Nature publications. 
 
-![alt text](https://github.com/Rob217/nice-figures/blob/master/examples/figs/simple_fig.png "Example figure")
+![alt text](https://github.com/Rob217/nice-figures/blob/master/examples/figs/advanced_fig.png "Example figure")
 
 To load module:
 ```python
@@ -38,8 +38,6 @@ Example scripts and figures are given in [examples](./examples/).
 
 ## Still to do:
 
-* Create separate folder for example scripts
-* Add extra example figures showing more complicated behavior
 * Specify font sizes for Nature
 * Allow indices to go beyond 26 for [add_numbering()](./nice_figures/add_numbering.py)
 * Submit to PyPI

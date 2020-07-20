@@ -11,6 +11,25 @@ To load module:
 from nice_figures load *
 ```
 
+## Installation instructions
+
+This package requires prior intallation of the following packages:
+* [numpy](https://numpy.org/install/)
+
+* [matplotlib](https://matplotlib.org/)
+
+I recommend installing for the PyPI server using pip:
+```python
+pip install nice-figures
+```
+
+Alternatively, the files can be downloaded directly from GitHub.
+
+To import, use:
+```python
+from nice_figures import *
+```
+
 ## Functions
 
 The following functions are included:
@@ -35,13 +54,6 @@ For more details about each function, please see the function docstrings.
 ## Examples
 
 Example scripts and figures are given in [examples](./examples/).
-
-## Still to do:
-
-* Specify font sizes for Nature
-* Allow indices to go beyond 26 for [add_numbering()](./nice_figures/add_numbering.py)
-* Submit to PyPI
-* Add installation instructions to README
 
 ## Useful resources
 

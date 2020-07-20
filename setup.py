@@ -26,7 +26,8 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     install_requires=[
-      'matplotlib'
+      'matplotlib',
+      'numpy'
     ],
     python_requires='>=3.6',
     include_package_data=True,
